@@ -1,2 +1,3 @@
 # pdSeq
-puredata to arduino sequencer 
+puredata to arduino sequencer  
+![](blink.gif)
